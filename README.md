@@ -11,10 +11,15 @@ This repository contains a [python notebook](https://colab.research.google.com/d
 - An analysis of CO2 records based on location can be helpful to identify factors contirbuting to emissions.
 
 ## Where is this data from?
-This data is from [The United States Environmental Protection Agency (EPA)](https://www.epa.gov/ghgreporting) It was recorded through their Greenhouse Gas Reporting Program (GHGRP), which requires information from large GHG emission sources. Annually, they receive data from about 8,000 facilities, which they combine into raw datatsets that are publicized every October. 
+This data is from [The United States Environmental Protection Agency (EPA)](https://www.epa.gov/ghgreporting). It was recorded through their Greenhouse Gas Reporting Program (GHGRP), which requires information from large GHG emission sources. Annually, they receive data from about 8,000 facilities, which they combine into raw datatsets that are publicized every October. 
 
 ## What purposes can this data serve?
 - This data could be used by climate scientists to track the largest emittors of CO2 and ensure they are aligning with regulations.
 - This data could be studied to find national or regional carbon footprints.
+
+## Data Visualization
+
+![lTPCH-co2-emissions-in-the-u-s-2021 (2)](https://github.com/user-attachments/assets/48ad2a91-9319-434e-8eba-6e315108ac87)
+This visualization was made using the tool [Datawrapper](https://app.datawrapper.de/select/map).
 
 
