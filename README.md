@@ -22,4 +22,5 @@ This data is from [The United States Environmental Protection Agency (EPA)](http
 ![lTPCH-co2-emissions-in-the-u-s-2021 (2)](https://github.com/user-attachments/assets/48ad2a91-9319-434e-8eba-6e315108ac87)
 This visualization was made using the tool [Datawrapper](https://app.datawrapper.de/select/map).
 
-
+### Where can users find help with the repository?
+Email hlma@unc.edu for help with this data repository.
