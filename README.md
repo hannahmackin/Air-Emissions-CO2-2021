@@ -25,7 +25,7 @@ This visualization was made using the tool [Datawrapper](https://app.datawrapper
 ### Where can users find help with the repository?
 Email hlma@unc.edu for help with this data repository.
 
-## *Acknowledgements and Usage*
-This repository was created for English 105 with Professor Gotzler at UNC-CH.
+## Acknowledgements and Usage
+*This repository was created for English 105 with Professor Gotzler at UNC-CH.*
 
-This repository can be used with credit to the EPA and Hannah Mackin. 
+*This repository can be used with credit to the EPA and Hannah Mackin.*
